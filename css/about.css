@@ -32,10 +32,21 @@ body {
       rgba(34, 34, 34, 0.6) 50%,
       rgba(34, 34, 34, 0.6) 100%
     ),
-    url("../images/about/svvv.jpg");
+    url("../images/about/svvvb.jpg");
   min-height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.develop {
+  text-align: center;
+  /* color: #777777; */
+  background-color: #f6f6f6;
+  font-size: 15px;
+}
+
+.developers {
+  color: #608dfd;
 }
 
 .sticky {

@@ -110,6 +110,17 @@ li.row i {
   width: 120px;
 }
 
+.develop {
+  text-align: center;
+  /* color: #777777; */
+  background-color: #f6f6f6;
+  font-size: 15px;
+}
+
+.developers {
+  color: #608dfd;
+}
+
 @media only screen and (max-width: 600px) {
   .text-center-sm {
     text-align: center;
