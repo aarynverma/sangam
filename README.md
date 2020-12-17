@@ -1,3 +1,3 @@
 # cafe-template
 
-Visit <https://emmanuelabajo.github.io/cafe-template/> to view
+Visit https://gifted-newton-03e698.netlify.app/index.html to view
