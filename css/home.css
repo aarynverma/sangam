@@ -18,6 +18,11 @@ body {
   color: #608dfd;
 }
 
+.margin {
+  margin: 0 3em;
+  line-height: 24px;
+}
+
 a,
 a:hover {
   text-decoration: none !important;
