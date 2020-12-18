@@ -130,6 +130,10 @@ footer > div {
     width: 100px;
   }
 
+  .svvvlogo {
+    color: white;
+  }
+
   .navbar-light .navbar-nav .nav-link {
     color: #111 !important;
     padding: 20px 0;
