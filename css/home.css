@@ -134,6 +134,9 @@ footer > div {
     color: white;
   }
 
+  .headings {
+    font-size: 20px;
+  }
   .navbar-light .navbar-nav .nav-link {
     color: #111 !important;
     padding: 20px 0;

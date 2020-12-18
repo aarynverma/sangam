@@ -48,6 +48,13 @@ body {
 .developers {
   color: #608dfd;
 }
+.svvvlogo {
+  color: white;
+}
+
+.headings {
+  font-size: 20px;
+}
 
 .sticky {
   background-color: rgba(0, 0, 0, 0.8);
