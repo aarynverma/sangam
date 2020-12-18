@@ -19,8 +19,9 @@ body {
 }
 
 .margin {
-  margin: 0 3em;
+  margin: 0 1em;
   line-height: 24px;
+  text-align: justify;
 }
 
 a,
@@ -130,13 +131,8 @@ footer > div {
     width: 100px;
   }
 
-  .svvvlogo {
-    color: white;
-  }
+  
 
-  .headings {
-    font-size: 20px;
-  }
   .navbar-light .navbar-nav .nav-link {
     color: #111 !important;
     padding: 20px 0;
